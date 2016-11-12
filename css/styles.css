@@ -46,12 +46,13 @@ li {
 li a {
 	display: inline-block;
 	color: #FFF;
-	padding: 17px 19px;
+	padding: 19px 21px;
 	text-align: center; text-decoration: none;
 }
 
 li a:hover {
 	background-color: #111;
+	border: 2px solid #FFF;
 }
 
 a {
