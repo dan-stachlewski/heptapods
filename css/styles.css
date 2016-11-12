@@ -29,3 +29,32 @@ h1 {
 	text-align: center; letter-spacing: 10px;
 	border: 2px solid #FFF;
 }
+
+nav {
+	padding-left: 175px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	background-color: #333;
+	float: left; overflow: hidden;
+}
+
+li a {
+	display: inline-block;
+	color: #FFF;
+	padding: 17px 19px;
+	text-align: center; text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+a {
+	font-size: 18px;
+}
+
