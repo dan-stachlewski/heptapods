@@ -59,3 +59,12 @@ a {
 	font-size: 18px;
 }
 
+#article-header {
+	background-image: url('../assets/github-icon.gif');
+	background-color: #000;
+	background-size: 200px 200px;
+	background-repeat: no-repeat;
+	background-position: 5% center;
+	height: 210px;
+	margin-top: 15px; padding-top: 90px;
+}
