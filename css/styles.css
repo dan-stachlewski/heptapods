@@ -102,6 +102,10 @@ footer #middle {
 	border: 2px solid #FFF;
 }
 
+footer #middle p {
+	margin-top: 65px;
+}
+
 footer #right {
 	width: 289px; height: 246px;
 	float: left;
