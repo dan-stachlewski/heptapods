@@ -36,6 +36,13 @@ nav {
 
 ul {
 	list-style-type: none;
+	/*
+	 * Code for a white border around the nav menu items
+	border: 2px solid #FFF;
+	height: 62px;
+	width: 535px;
+	margin: 0; padding: 0;
+	margin-left: 35px;*/
 }
 
 li {
@@ -52,6 +59,7 @@ li a {
 
 li a:hover {
 	background-color: #111;
+	padding: 17px 19px;
 	border: 2px solid #FFF;
 }
 
