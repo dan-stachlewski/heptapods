@@ -80,3 +80,41 @@ a {
 	height: 210px;
 	margin-top: 15px; padding-top: 90px;
 }
+
+footer {
+	background-color: #000;
+	width: 920px; height: 210px;
+	margin: 15px auto 0 auto; padding: 20px;
+	/* from the IMDB site */
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.75);
+}
+
+footer #left {
+	width: 289px; height: 206px;
+	float: left;
+	border: 2px solid #FFF;
+}
+
+footer #middle {
+	width: 289px; height: 206px;
+	margin: 0 20px 0 20px;
+	float: left;
+	border: 2px solid #FFF;
+}
+
+footer #right {
+	width: 289px; height: 206px;
+	float: left;
+	border: 2px solid #FFF;
+}
+
+footer #left h2, footer #right h2 {
+	text-align: center; letter-spacing: 10px;
+	font-weight: 300;
+	color: #FFF;
+}
+
+footer #middle p {
+	text-align: center;
+	color: #FFF;
+}
