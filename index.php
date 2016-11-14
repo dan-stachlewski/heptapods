@@ -32,7 +32,7 @@
   <!-- START article -->
   		<article>
   			<header id="article-header" class="">
-  				<h1>Counsins <span class="header">of</span> Octocats</h1>
+  				<h1>Cousins <span class="header">of</span> Octocats</h1>
   			</header><!-- /header -->
   		</article>
   <!-- END article -->
