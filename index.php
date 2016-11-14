@@ -10,7 +10,7 @@
 	<div id="page-wrapper">
   <!-- START header -->
   	<header>
-		<h1>HEPTAPOD'S OCTOCAT'S</h1>
+		<h1>HEPTAPOD'S <span class="header">have</span>ARRIVED</h1>
 		<!-- <h2></h2> Remove for now - don't need it. -->
   <!-- START nav-menu -->
   		<nav>
@@ -32,7 +32,7 @@
   <!-- START article -->
   		<article>
   			<header id="article-header" class="">
-  				<h1>Counsins of the Octocats</h1>
+  				<h1>Counsins <span class="header">of</span> Octocats</h1>
   			</header><!-- /header -->
   		</article>
   <!-- END article -->
