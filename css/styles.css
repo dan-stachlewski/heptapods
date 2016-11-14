@@ -58,13 +58,17 @@ li a:hover {
 a {
 	font-size: 18px;
 }
-
+/*
+ * Ref: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds
+ * This link refers to using multiple background images.
+ */
 #article-header {
-	background-image: url('../assets/github-icon.gif');
+	/* I can add multiple bg images by listing them and separating them with a , */
+	background-image: url('../assets/github-icon.gif'), url('../assets/heptapod-logo.gif');
 	background-color: #000;
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
-	background-position: 5% center;
+	background-position: 5% center, 93% center;
 	height: 210px;
 	margin-top: 15px; padding-top: 90px;
 }
