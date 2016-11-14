@@ -115,6 +115,7 @@ footer #left h2, footer #right h2 {
 }
 
 footer #middle p {
-	text-align: center;
+	text-align: center; letter-spacing: 8px;
+	font-size: 14px;
 	color: #FFF;
 }
