@@ -41,7 +41,12 @@
   
   <!-- START footer -->
   	<footer>
-  		<section id="left"><h2>Social <br/> Media:</h2></section>
+  		<section id="left">
+        <h2>Social <br/> Media:</h2>
+        <span><img class="social-media-icons" src="assets/social-media-icons/icon-twitter-white.png" alt="Twitter Icon"></span>
+        <span><img class="social-media-icons" src="assets/social-media-icons/icon-youtube-white.png" alt="Youtube Icon"></span>
+        <span><img class="social-media-icons" src="assets/social-media-icons/icon-facebook-white.png" alt="Facebook Icon"></span>
+      </section>
   		<section id="middle"><p>Copyright &copy;<br/>  <?php echo date("Y"); ?> <br/><br/> Assimil8 <br/> Web Solutions </p></section>
   		<section id="right"><h2>Contact <br/> Info:</h2></section>
   	</footer>
