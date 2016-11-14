@@ -134,3 +134,55 @@ footer #middle p {
 	/*background-color: red;*/
 }
 
+/* INDEX BASIC CONTACT FORM */
+
+form {
+	margin-top: -10px;
+}
+
+label {
+	color: #FFF;
+	display: inline-block;
+	width: 75px;
+	padding-left: 15px;
+	letter-spacing: 4px;
+}
+
+input {
+	width: 170px;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+textarea {
+	width: 178px;
+	margin-top: 5px;
+}
+
+#submit {
+	
+	width: 90px;
+	height: 27px;
+	margin-left: 94px;
+	letter-spacing: 4px;
+	cursor: pointer;
+
+}
+
+/*
+ * Ref: https://css-tricks.com/almanac/selectors/p/placeholder/
+ * This is the code to target the placeholders.
+ */
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  letter-spacing: 4px;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  letter-spacing: 4px;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  letter-spacing: 4px;
+}
+:-moz-placeholder { /* Firefox 18- */
+  letter-spacing: 4px;
+}

@@ -57,10 +57,10 @@
           <label>Name:</label>
           <input type="text" name="name" placeholder="Joe Bloggs"><br/>
           <label>Email:</label>
-          <input type="email" name="email" placeholder="joe@bloggs.com.au">
-          <label>Message:</label>
+          <input type="email" name="email" placeholder="jb@gmail.com.au">
+          <label>Msg:</label>
           <textarea name="message" placeholder="I am writing to..."></textarea>
-          <input type="submit" name="submit" value="Submit">
+          <input id="submit" type="submit" name="submit" value="Submit">
         </form>
       </section>
   	</footer>
