@@ -125,3 +125,11 @@ footer #middle p {
 	margin-left: 30px;
 	margin-bottom: 20px;
 }
+
+.header {
+	font-size: 14px;
+	font-style: italic;
+	line-height: 15px;
+	display: block;
+	/*background-color: red;*/
+}

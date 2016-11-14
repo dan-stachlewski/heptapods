@@ -46,7 +46,7 @@
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-twitter-white.png" alt="Twitter Icon"></span>
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-youtube-white.png" alt="Youtube Icon"></span>
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-facebook-white.png" alt="Facebook Icon"></span>
-        <span><img class="social-media-icons" src="assets/social-media-icons/icon-google-plus-white.png" alt="Google Plus Icon"></span>
+          <span><img class="social-media-icons" src="assets/social-media-icons/icon-google-plus-white.png" alt="Google Plus Icon"></span>
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-instagram-white.png" alt="Instagram Icon"></span>
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-pinterest-white.png" alt="Pinterest Icon"></span>
       </section>
