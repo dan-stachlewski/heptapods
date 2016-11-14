@@ -72,7 +72,7 @@ a {
  */
 #article-header {
 	/* I can add multiple bg images by listing them and separating them with a , */
-	background-image: url('../assets/github-icon.gif'), url('../assets/heptapod-logo.gif');
+	background-image: url('../assets/logos/logo-github.gif'), url('../assets/logos/logo-heptapod.gif');
 	background-color: #000;
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
