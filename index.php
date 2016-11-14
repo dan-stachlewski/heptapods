@@ -51,7 +51,18 @@
         <span><img class="social-media-icons" src="assets/social-media-icons/icon-pinterest-white.png" alt="Pinterest Icon"></span>
       </section>
   		<section id="middle"><p>Copyright &copy;<br/>  <?php echo date("Y"); ?> <br/><br/> Assimil8 <br/> Web Solutions </p></section>
-  		<section id="right"><h2>Contact <br/> Info:</h2></section>
+  		<section id="right">
+        <h2>Contact <br/> Info:</h2>
+        <form action="index_submit" method="get" accept-charset="utf-8">
+          <label>Name:</label>
+          <input type="text" name="name" placeholder="Joe Bloggs"><br/>
+          <label>Email:</label>
+          <input type="email" name="email" placeholder="joe@bloggs.com.au">
+          <label>Message:</label>
+          <textarea name="message" placeholder="I am writing to..."></textarea>
+          <input type="submit" name="submit" value="Submit">
+        </form>
+      </section>
   	</footer>
   <!-- END footer -->
 	</div>
